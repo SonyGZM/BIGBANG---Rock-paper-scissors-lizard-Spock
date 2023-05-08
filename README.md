@@ -4,15 +4,15 @@
 
 ## #       *Rules:*
 
--       Scissors cut paper
--       Paper covers stone
--       Rock crushes lizard
--       Lizard poisons Spock
--       Spock breaks scissors
--       Scissors decapitates lizard
--       Lizard devours paper
--       Paper overrules Spock
--       Spock vaporizes stone
--       And as always, rock breaks scissor
+      *Scissors cut paper
+      *Paper covers stone
+      *Rock crushes lizard
+      *Lizard poisons Spock
+      *Spock breaks scissors
+      *Scissors decapitates lizard
+      *Lizard devours paper
+      *Paper overrules Spock
+      *Spock vaporizes stone
+      *And as always, rock breaks scissor
 
 [![https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/90559de3-46bc-4f23-9f96-4819b5c70958/d5g9id9-0ddff8e7-43f3-47b3-bdd0-07dde12ebb9d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkwNTU5ZGUzLTQ2YmMtNGYyMy05Zjk2LTQ4MTliNWM3MDk1OFwvZDVnOWlkOS0wZGRmZjhlNy00M2YzLTQ3YjMtYmRkMC0wN2RkZTEyZWJiOWQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sCPvMU9372UaK-2plHYVm_wzgoYON2PYXJRctdACodE](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/90559de3-46bc-4f23-9f96-4819b5c70958/d5g9id9-0ddff8e7-43f3-47b3-bdd0-07dde12ebb9d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkwNTU5ZGUzLTQ2YmMtNGYyMy05Zjk2LTQ4MTliNWM3MDk1OFwvZDVnOWlkOS0wZGRmZjhlNy00M2YzLTQ3YjMtYmRkMC0wN2RkZTEyZWJiOWQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sCPvMU9372UaK-2plHYVm_wzgoYON2PYXJRctdACodE "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/90559de3-46bc-4f23-9f96-4819b5c70958/d5g9id9-0ddff8e7-43f3-47b3-bdd0-07dde12ebb9d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkwNTU5ZGUzLTQ2YmMtNGYyMy05Zjk2LTQ4MTliNWM3MDk1OFwvZDVnOWlkOS0wZGRmZjhlNy00M2YzLTQ3YjMtYmRkMC0wN2RkZTEyZWJiOWQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sCPvMU9372UaK-2plHYVm_wzgoYON2PYXJRctdACodE")](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/90559de3-46bc-4f23-9f96-4819b5c70958/d5g9id9-0ddff8e7-43f3-47b3-bdd0-07dde12ebb9d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkwNTU5ZGUzLTQ2YmMtNGYyMy05Zjk2LTQ4MTliNWM3MDk1OFwvZDVnOWlkOS0wZGRmZjhlNy00M2YzLTQ3YjMtYmRkMC0wN2RkZTEyZWJiOWQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sCPvMU9372UaK-2plHYVm_wzgoYON2PYXJRctdACodE "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/90559de3-46bc-4f23-9f96-4819b5c70958/d5g9id9-0ddff8e7-43f3-47b3-bdd0-07dde12ebb9d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkwNTU5ZGUzLTQ2YmMtNGYyMy05Zjk2LTQ4MTliNWM3MDk1OFwvZDVnOWlkOS0wZGRmZjhlNy00M2YzLTQ3YjMtYmRkMC0wN2RkZTEyZWJiOWQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sCPvMU9372UaK-2plHYVm_wzgoYON2PYXJRctdACodE")
